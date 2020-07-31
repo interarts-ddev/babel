@@ -2,7 +2,7 @@
 
 ## A library without end, for ideas found a long the garden of forking paths
 
-> * "The Library of Babel" (original Spanish title: La biblioteca de Babel) is a short story by Argentine author and librarian Jorge Luis Borges (1899–1986), conceiving of a universe in the form of a vast library containing all possible 410-page books of a certain format and character set. *
+> *"The Library of Babel" (original Spanish title: La biblioteca de Babel) is a short story by Argentine author and librarian Jorge Luis Borges (1899–1986), conceiving of a universe in the form of a vast library containing all possible 410-page books of a certain format and character set.*
 
 ## random project ideas
 
